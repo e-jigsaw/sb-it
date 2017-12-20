@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "name": "sbj",
+  "description": "Scrapbox Journal",
+  "scripts": {
+    "app": "electron src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/e-jigsaw/sbj.git"
+  },
+  "keywords": [],
+  "author": "Takaya Kobayashi (https://kbys.tk/y)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/e-jigsaw/sbj/issues"
+  },
+  "homepage": "https://github.com/e-jigsaw/sbj#readme",
+  "dependencies": {
+    "electron": "^1.7.10",
+    "electron-config": "^1.0.0"
+  }
+}
