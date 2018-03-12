@@ -1,21 +1,20 @@
 {
   "private": true,
-  "name": "sbj",
-  "description": "Scrapbox Journal",
+  "name": "sb-it",
+  "description": "Scrapbox like Post-It®",
   "scripts": {
     "app": "electron src/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/e-jigsaw/sbj.git"
+    "url": "git+ssh://git@github.com/e-jigsaw/sb-it.git"
   },
-  "keywords": [],
   "author": "Takaya Kobayashi (https://kbys.tk/y)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/e-jigsaw/sbj/issues"
+    "url": "https://github.com/e-jigsaw/sb-it/issues"
   },
-  "homepage": "https://github.com/e-jigsaw/sbj#readme",
+  "homepage": "https://github.com/e-jigsaw/sb-it#readme",
   "dependencies": {
     "electron": "^1.8.3",
     "electron-config": "^1.0.0"
