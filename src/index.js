@@ -16,7 +16,7 @@ app.on('ready', () => {
   const {x, y, width, height} = config.get('bounds')
   const updateBounds = event => config.set('bounds', mainWindow.getBounds())
   mainWindow = new BrowserWindow({
-    title: 'sbj',
+    title: 'sb-it',
     x, y, width, height
   })
   mainWindow.loadURL(`file://${resolve(__dirname, './index.html')}`)
