@@ -1,2 +1,2 @@
-# sbj
-Scrapbox Journal
+# sb-it
+Scrapbox like Post-It®
