@@ -16,7 +16,10 @@
   },
   "homepage": "https://github.com/e-jigsaw/sb-it#readme",
   "dependencies": {
-    "electron": "^1.8.3",
+    "electron": "^2.0.1",
     "electron-config": "^1.0.0"
+  },
+  "devDependencies": {
+    "prettier": "^1.12.1"
   }
 }
